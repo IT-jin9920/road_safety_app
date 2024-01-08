@@ -1,0 +1,77 @@
+name: road_safety_app
+description: "Road Safety Hazards Reporting App"
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.0
+  image_picker: ^1.0.6
+  google_maps_flutter: ^2.5.1
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.2.2
+  email_validator: ^2.1.17
+  flutter_svg: ^2.0.9
+  connectivity: ^3.0.6
+  fluttertoast: ^8.2.4
+  location: ^5.0.3
+  geolocator: ^10.1.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+
+  
+  uses-material-design: true
+
+  
+  
+
+  assets:
+    - assets/IMG/
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

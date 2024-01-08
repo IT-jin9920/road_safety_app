@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479367727007",
+    "project_id": "road-safety-ap",
+    "storage_bucket": "road-safety-ap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479367727007:android:29075d65c2025722e9dfaa",
+        "android_client_info": {
+          "package_name": "com.example.road_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2f-ZIfjDDkBUaYCBnkyWCbz1Mv7D3Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
